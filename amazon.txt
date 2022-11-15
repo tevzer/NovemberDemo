@@ -1,0 +1,118 @@
+Failure: 26 TR: Attribution Validation - Fail
+
+Automation keeps running till the end instead of stopping after the fail. 
+
+
+
+Test Plan: ShoppingWW
+- URL: https://test.amzn.hiveplatform.org/test-hub/apps/apkudo-app-qa/amazon.shop.ww.attribution.all.locale_v15.1.3
+
+- Build: v73.1.0
+
+Test Device: Google pixel 4 - Android 11
+- Amazon Shopping-Android-22.14.0-patron-32bit-signed
+
+Capture: https://test.amzn.hiveplatform.org/test-hub/inspect/result/5600504
+
+Report: https://test.amzn.hiveplatform.org/test-hub/results/5595766/report
+
+
+
+
+
+
+
+https://test.amzn.hiveplatform.org/test-hub/results/5605160/report - report
+https://test.amzn.hiveplatform.org/test-hub/inspect/result/5609334 - capture
+
+
+
+New :
+Test 32
+
+https://test.amzn.hiveplatform.org/test-hub/results/5719423/report
+https://test.amzn.hiveplatform.org/test-hub/inspect/result/5722339
+
+Production 32
+
+https://amzn.hiveplatform.org/test-hub/results/2708625/report
+
+Test 64
+
+https://test.amzn.hiveplatform.org/test-hub/results/5726331/report
+https://test.amzn.hiveplatform.org/test-hub/inspect/result/5722339
+
+Production 64
+
+https://amzn.hiveplatform.org/test-hub/results/2713509/report
+
+Property test 32
+
+https://test.amzn.hiveplatform.org/test-hub/results/5740546/report
+https://test.amzn.hiveplatform.org/test-hub/inspect/result/5743161
+
+Property production 32
+
+https://amzn.hiveplatform.org/test-hub/results/2721009/report
+
+Property test 64
+
+https://test.amzn.hiveplatform.org/test-hub/results/5743202/report
+https://test.amzn.hiveplatform.org/test-hub/inspect/result/5746119
+
+
+Property production 64
+
+https://amzn.hiveplatform.org/test-hub/results/2725715/report
+
+All,all,all 32 test
+https://test.amzn.hiveplatform.org/test-hub/results/5746232/report
+https://test.amzn.hiveplatform.org/test-hub/inspect/result/5749585
+
+All,all,all 32 production
+
+https://amzn.hiveplatform.org/test-hub/results/2728418/report
+
+All,all,all 64 test
+
+https://test.amzn.hiveplatform.org/test-hub/results/5752270/report
+https://test.amzn.hiveplatform.org/test-hub/inspect/result/5758674
+
+All,all,all 64 production
+
+https://amzn.hiveplatform.org/test-hub/results/2736184/report
+
+
+Mdip test 32
+
+https://test.amzn.hiveplatform.org/test-hub/results/5759890/report
+https://test.amzn.hiveplatform.org/test-hub/inspect/result/5763293
+
+Mdip 32 production
+
+https://amzn.hiveplatform.org/test-hub/results/2742956/report
+
+Mdip test 64
+
+https://test.amzn.hiveplatform.org/test-hub/results/5766350/report
+https://test.amzn.hiveplatform.org/test-hub/inspect/result/5770075
+
+Mdip 64 production
+
+https://amzn.hiveplatform.org/test-hub/results/2748046/report
+
+
+
+
+Failure: 
+
+Test Plan: ShoppingWW
+- URL: 
+- Build: v47.0.3
+
+Test Device: Samsung Note9 OS 10
+- AmazonShopping-Android-20.11.0-patron-32bit-signed: 
+
+Capture: <LINK>
+
+Report:
